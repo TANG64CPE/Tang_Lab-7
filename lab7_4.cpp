@@ -10,7 +10,7 @@ int main()
 	double gpa[] = {1.50,2.12,4.00,3.69,2.50,2.76,3.54,2.14,3.50,1.88};
 	int i=0;
 	double x;
-	cout << "Please input GPA:";
+	cout << "Please input GPA: ";
 	cin >> x;
 	while ( i < 10 )
 	{
